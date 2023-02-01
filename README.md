@@ -13,5 +13,3 @@ To test, run:
 yarn jest
 npm run jest
 ```
-
-FYI normally would add .env to .gitignore but keeping to save setup time
