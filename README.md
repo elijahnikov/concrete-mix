@@ -1,7 +1,7 @@
 Concrete Mix Setup Tutorial:
 
 ```
-git clone git@github.com:elijahnikov/ConcreteMix.git
+git clone git@github.com:elijahnikov/concrete-mix.git
 cd concrete-mix
 npm install (--force if needed)
 npm run dev (or yarn dev)
